@@ -1,7 +1,7 @@
 {
   "name": "Toko Grosir Hafid ",
-  "short_name": "Shop",
-  "description": "Toko grosir PWA",
+  "short_name": "Hafid Grosir",
+  "description": "Toko grosir Hafid",
   "icons": [{
       "src": "images/icon.png",
       "type": "image/png"
